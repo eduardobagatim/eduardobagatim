@@ -23,5 +23,5 @@
   ##
   
   <div>
-      <img align="center" alt="GIF" height="130" width="140" src="https://media.discordapp.net/attachments/712410544858202188/877686930144387102/unnamed.gif">
+      <img align="center" alt="GIF" height="150" width="160" src="https://media.discordapp.net/attachments/712410544858202188/877686930144387102/unnamed.gif">
     </div>
